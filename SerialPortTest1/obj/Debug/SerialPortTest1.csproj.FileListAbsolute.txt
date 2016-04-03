@@ -1,0 +1,6 @@
+C:\Users\ewillia\Dropbox\code\csharp\2016\SerialPortTest1\SerialPortTest1\bin\Debug\SerialPortTest1.exe.config
+C:\Users\ewillia\Dropbox\code\csharp\2016\SerialPortTest1\SerialPortTest1\bin\Debug\SerialPortTest1.exe
+C:\Users\ewillia\Dropbox\code\csharp\2016\SerialPortTest1\SerialPortTest1\bin\Debug\SerialPortTest1.pdb
+C:\Users\ewillia\Dropbox\code\csharp\2016\SerialPortTest1\SerialPortTest1\obj\Debug\SerialPortTest1.csprojResolveAssemblyReference.cache
+C:\Users\ewillia\Dropbox\code\csharp\2016\SerialPortTest1\SerialPortTest1\obj\Debug\SerialPortTest1.exe
+C:\Users\ewillia\Dropbox\code\csharp\2016\SerialPortTest1\SerialPortTest1\obj\Debug\SerialPortTest1.pdb
